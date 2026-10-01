@@ -28,5 +28,10 @@ namespace Tetris2D.UI
 
         // Paneles / cajas de texto.
         public static readonly Vector4 PanelOscuro = new(0.05f, 0.07f, 0.16f, 0.95f);
+
+        //AGREGAMOS LOS NUEVOS COLORES
+        public static readonly Vector4 Azul = new(0.20f, 0.45f, 1.00f, 1f);
+        public static readonly Vector4 Naranja = new(1.00f, 0.60f, 0.10f, 1f);
+
     }
 }
